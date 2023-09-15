@@ -1,0 +1,377 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "getStarted": "Get started",
+    "@getStarted": {},
+    "enterValidEmailToContinue": "Please enter a valid email to continue.",
+    "@enterValidEmailToContinue": {},
+    "email": "Email",
+    "@email": {},
+    "emailInvalid": "Must be a valid email address",
+    "@emailInvalid": {
+        "description": "Text shown an invalid email address is entered"
+    },
+    "password": "Password",
+    "@password": {},
+    "passwordCannotBeEmpty": "Password cannot be empty",
+    "@passwordCannotBeEmpty": {
+        "description": "Text shown when no password entered"
+    },
+    "passwordTooShort": "Password must be at least {length} characters",
+    "@passwordTooShort": {
+        "description": "Text shown when an entered password is too short",
+        "placeholders": {
+            "length": {
+                "type": "int"
+            }
+        }
+    },
+    "loginPageButtonText": "Continue",
+    "@loginPageButtonText": {},
+    "shopping": "Shopping",
+    "@shopping": {},
+    "profile": "Profile",
+    "@profile": {},
+    "stores": "Stores",
+    "@stores": {},
+    "store": "Store",
+    "@store": {},
+    "task": "Task",
+    "@task": {},
+    "tasks": "Tasks",
+    "@tasks": {},
+    "accessCamera": "Access camera",
+    "@accessCamera": {},
+    "accessCameraDescription": "We need to use your camera to take photos of produces and shelves",
+    "@accessCameraDescription": {},
+    "okay": "Okay",
+    "@okay": {},
+    "ok": "OK",
+    "@ok": {},
+    "notNow": "Not now",
+    "@notNow": {},
+    "cancel": "Cancel",
+    "@cancel": {},
+    "next": "Next",
+    "@next": {},
+    "done": "Done",
+    "@done": {},
+    "fieldRequired": "* required",
+    "@fieldRequired": {},
+    "takePhoto": "Take photo",
+    "@takePhoto": {},
+    "itemOfItem": "{item} of {total}",
+    "@itemOfItem": {
+        "placeholders": {
+            "item": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            }
+        }
+    },
+    "cameraAccessRequired": "Camera access required",
+    "@cameraAccessRequired": {},
+    "pleaseEnableCameraAccess": "Please enable camera access in app settings.",
+    "@pleaseEnableCameraAccess": {},
+    "openSettings": "Open settings",
+    "@openSettings": {},
+    "logOut": "Log out",
+    "@logOut": {},
+    "loggingOut": "Logging out",
+    "@loggingOut": {},
+    "itemEllipsis": "{item}...",
+    "@itemEllipsis": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "submitting": "Submitting",
+    "@Submitting": {},
+    "selectAItem": "Select a {item}",
+    "@selectAItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "itemFailedPleaseTryAgain": "{item} failed. Please try again.",
+    "@itemFailedPleaseTryAgain": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "noItemFound": "No {item} found",
+    "@noItemFound": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "storeActivity": "Store activity",
+    "@storeActivity": {},
+    "addItem": "Add {item}",
+    "@addItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "somethingWentWrong": "Something went wrong",
+    "@somethingWentWrong": {},
+    "pleaseTryAgain": "Please try again.",
+    "@pleaseTryAgain": {},
+    "send": "Send",
+    "@send": {},
+    "itemHyphenItem": "{item1} - {item2}",
+    "@itemHyphenItem": {
+        "placeholders": {
+            "item1": {
+                "type": "String"
+            },
+            "item2": {
+                "type": "String"
+            }
+        }
+    },
+    "itemSpaceItem": "{item1} {item2}",
+    "@itemSpaceItem": {
+        "placeholders": {
+            "item1": {
+                "type": "String"
+            },
+            "item2": {
+                "type": "String"
+            }
+        }
+    },
+    "noResultsFound": "No results found",
+    "@noResultsFound": {},
+    "tryAgainUsingOtherSearchTerms": "Try again using other search terms.",
+    "@tryAgainUsingOtherSearchTerms": {},
+    "searchResults": "Search results",
+    "@searchResults": {},
+    "storesNearby": "Stores nearby",
+    "@storesNearby": {},
+    "success": "Success",
+    "@Success": {},
+    "itemBang": "{item}!",
+    "@itemBang": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "thankYouForSupportingCommunity": "Thank you for helping support your local shopping community.",
+    "@thankYouForSupportingCommunity": {},
+    "products": "Products",
+    "@products": {},
+    "product": "Product",
+    "@product": {},
+    "clear": "Clear",
+    "@clear": {},
+    "search": "Search",
+    "@search": {},
+    "barcode": "Barcode",
+    "@barcode": {},
+    "searchProductNameOrBarcode": "Search product name or barcode",
+    "@searchProductNameOrBarcode": {},
+    "searchCategoryName": "Search by category name",
+    "@searchCategoryName": {},
+    "itemSearch": "{item} search",
+    "@itemSearch": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "barcodeScan": "Barcode scan",
+    "@barcodeScan": {},
+    "categories": "Categories",
+    "@categories": {},
+    "createNewItem": "Create new {item}",
+    "@createNewItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "createItem": "Create {item}",
+    "@createItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "itemName": "{item} name",
+    "@itemName": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "itemIsNotValid": "{item} is not valid",
+    "@itemIsNotValid": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Completed",
+    "@completed": {},
+    "newSolo": "New",
+    "@newSolo": {},
+    "itemTask": "{item} task",
+    "@itemTask": {
+        "placeholders": {
+            "item": {
+                "type": "int"
+            }
+        }
+    },
+    "itemTasks": "{item} tasks",
+    "@itemTasks": {
+        "placeholders": {
+            "item": {
+                "type": "int"
+            }
+        }
+    },    
+    "taskHasntBeenSumbitted": "This task hasn't been submitted.",
+    "@taskHasntBeenSumbitted": {},
+    "tapSendToRetry": "Tap 'Send' to retry.",
+    "@tapSendToRetry": {},
+    "sendPendingTasks": "Send Pending Tasks",
+    "@sendPendingTasks": {},
+    "submissionsPendingAvoidLosingData": "You have submissions pending. To avoid losing the data, ensure you have network connectivity and click Send.",
+    "@submissionsPendingAvoidLosingData": {},   
+    "ignore": "Ignore",
+    "@ignore": {},
+    "submissionPending": "Submission Pending",
+    "@submissionPending": {},
+    "submissionPendingDescription": "Your task cannot be submitted right now. We've saved the task details in your Store activity. Once you're finished shopping, please try re-submitting the task.",
+    "@submissionPendingDescription": {},
+    "gotIt": "Got it",
+    "@gotIt": {},
+    "sendingItemOfItemSubmissions": "Sending {current} of {total} submissions",
+    "@sendingItemOfItemSubmissions": {
+        "placeholders": {
+            "current": {
+                "type": "int"
+            },
+            "total": {
+                "type": "int"
+            }
+        }
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy": {},
+    "termsAndConditions": "Terms & Conditions",
+    "@termsAndConditions": {},
+    "offers": "Offers",
+    "@offers": {},
+    "createFirstList": "Create your first list",
+    "@createFirstList": {},
+    "addListToStart": "Add a list to get started",
+    "@addListToStart": {},
+    "myLists": "My lists",
+    "@myLists": {},
+    "list": "List",
+    "@list": {},
+    "newItem": "New {item}",
+    "@newItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "name": "Name",
+    "@name": {},
+    "itemItem": "{item} item",
+    "@itemItem": {
+        "placeholders": {
+            "item": {
+                "type": "int"
+            }
+        }
+    },
+    "itemItems": "{item} items",
+    "@itemItems": {
+        "placeholders": {
+            "item": {
+                "type": "int"
+            }
+        }
+    },
+    "needSomethingShops": "Need something from the shops?",
+    "@needSomethingShops": {},
+    "searchToAddToShoppingList": "Search for item below to add it to your shopping list",
+    "@searchToAddToShoppingList": {},
+    "egItem": "e.g. {item}",
+    "@egItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "milk": "Milk",
+    "@milk": {},
+    "refreshing": "Refreshing",
+    "@refreshing": {},
+    "addingItem": "Adding {item}",
+    "@addingItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "removingItem": "Removing {item}",
+    "@removingItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "reorderingItem": "Reordering {item}",
+    "@reorderingItem": {
+        "placeholders": {
+            "item": {
+                "type": "String"
+            }
+        }
+    },
+    "adding": "Adding",
+    "@adding": {},
+    "removing": "Removing",
+    "@removing": {},
+    "reordering": "Reordering",
+    "@reordering": {},
+    "agreeToTandCs": "By clicking Continue, you agree to our Terms and Conditions and Privacy Policy.",
+    "@agreeToTandCs": {},
+    "communityStore": "Community Store",
+    "@communityStore": {},
+    "communityStoreTasks": "Community Store Tasks",
+    "@communityStoreTasks": {}
+    
+}

@@ -1,0 +1,1 @@
+export 'screens/search_store_page.dart';
